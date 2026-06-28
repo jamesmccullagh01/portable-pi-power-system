@@ -43,6 +43,8 @@ Challenges
 • Redesigning the power architecture after identifying current draw issue 
 • Designing and reiterations of custom enclosure using Solidworks and 3D printer
 
+<img width="5712" height="4284" alt="IMG_9790" src="https://github.com/user-attachments/assets/2a33a9a0-6862-4d06-bf4d-2d5eea14edf7" />
+
 ------------------------------------------------------------------------
 
 Lessons Learned
